@@ -1,0 +1,40 @@
+body{
+    background-color:#00ddff;
+}
+#calc-contain{
+    position:relative;
+    left: 40px;
+    width:40px;
+    border:2px solid black;
+    border-radius: 50px 20px;
+    padding: 20px 20px 50px 20px;
+    background-color:  yellow;
+}
+#jss{
+    margin-top:25px;
+    font-size:20px;
+    font-weight:bolder;
+    background-color: yellow;
+    color:green;
+}
+input[type=button]{
+    background-color: light gray;
+    width:20%
+    font-size; 20px;
+    font-weight:bolder;
+    margin-left: 13px;
+    margin-top: 10px;
+    border-radius:  70px;
+}
+input [type=button]hover{
+    background-color:#003300;
+    color:white;
+}
+input[type=text]{
+    margin:20px;
+    display:block;
+    width:90px;
+    font: size 10px;
+    font-weight:70px;
+    box-shadow:40-20px 10px black inset;
+}
